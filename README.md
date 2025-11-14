@@ -16,13 +16,13 @@ Can be easily adapted for other queries or custom selectors.
 
 # 💻 Installation
 
-# 1. Clone the repository:
+ 1. Clone the repository:
 
 `git clone https://github.com/yourusername/google-search-scraper.git
 cd google-search-scraper`
 
 
-# 2. Install dependencies:
+ 2. Install dependencies:
 
 `pip install -r requirements.txt`
 
@@ -33,7 +33,7 @@ requirements.txt should contain:
 beautifulsoup4`
 
 
-# 3. Download ChromeDriver that matches your Chrome version
+ 3. Download ChromeDriver that matches your Chrome version
 
 
 # ⚡ Usage
@@ -58,17 +58,17 @@ Title 2 | URL 2
 
 # 🛠 How It Works
 
-# 1. Open Google with Selenium.
+ 1. Open Google with Selenium.
 
-# 2. Load search results dynamically.
+ 2. Load search results dynamically.
 
-# 3. Wait until results are fully rendered.
+ 3. Wait until results are fully rendered.
 
-# 4. Parse HTML with BeautifulSoup.
+ 4. Parse HTML with BeautifulSoup.
 
-# 5. Extract titles and links using CSS selectors.
+ 5. Extract titles and links using CSS selectors.
 
-# 6. Save to file for further processing.
+ 6. Save to file for further processing.
 
 # ⚠️ Notes
 
