@@ -4,7 +4,9 @@ A simple Python tool to scrape Google search results using Selenium and Beautifu
 
 This GIF demonstrates how the scraper loads Google search results using Selenium and extracts the page titles with BeautifulSoup. All results are automatically saved into a text file.
 
-![Result](result.gif)
+<p align="center">
+  <img src="result.gif" width="450"/>
+</p>
 
 
 # 🚀 Features
